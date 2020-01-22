@@ -15,16 +15,16 @@ And all your scores are saved in the server.
 
 in addition, every game saves as a kml. kml is a way to save the diraction of the robots ,and than we can show it on google earth!
 
-At this chart you can see  our best score in each level:
+At this chart you can see  our best score and moves in each level:
 
 
 
-| _Game_ | _Score_ |
+| _Game_ | _Score_ | _Moves_
 |-------------|------------|
-| 0        | 140   | 
-| 1         | 490 | 
-| 2         | 758 | 
-| 3         | 570    | 
+| 0        | 140   | 288|
+| 1         | 497 | 559|
+| 2         | 804 | 533|
+| 3         | 570    | 466|
 | 4        | 0| 
 | 5         | 0    | 
 | 6        | 0| 
