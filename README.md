@@ -19,8 +19,8 @@ At this chart you can see  our best score and moves in each level:
 
 
 
-| _Game_ | _Score_ | _Moves_
-|-------------|------------|
+| _Game_ | _Score_ | _Moves_|
+|-------------|------------|------------|
 | 0        | 140   | 288|
 | 1         | 497 | 559|
 | 2         | 804 | 533|
