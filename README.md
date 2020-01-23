@@ -34,4 +34,4 @@ At this chart you can see  our best score and moves in each level:
 | 7         | 256   | 257
 |8       | 300| 511
 | 9        | 200     | 263
-| 10        | 0 | 
+| 10        | 1055 | 1032
