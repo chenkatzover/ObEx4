@@ -11,9 +11,12 @@ as much as fruits they can to get the highst score.
 All the levels are locked, in order to move forward to the next level you whould have to get some specific score.
 And all your scores are saved in the server.
 
+in addition, every game saves as a kml. kml is a way to save the diraction of the robots ,and than we can show it on google earth!
+
+If you want to try and see how this project work- press on main class and runs it.
+
 <a href="https://ibb.co/dpYpWnC"><img src="https://i.ibb.co/SmCmsqY/ttt.jpg" alt="ttt" border="0"></a>
 
-in addition, every game saves as a kml. kml is a way to save the diraction of the robots ,and than we can show it on google earth!
 
 At this chart you can see  our best score and moves in each level:
 
